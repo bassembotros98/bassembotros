@@ -6,7 +6,7 @@
   - [Creating a Live Soc / Honeynet in Azure](https://github.com/bassembotros98/azure-soc)
 
 - <b>linux/ projects
-  - [changing multiple file permissions in linux]
+  - [changing multiple file permissions in linux](https://github.com/bassembotros98/File-permission-in-Linux)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
