@@ -9,5 +9,5 @@
   - [changing multiple file permissions in linux](https://github.com/bassembotros98/File-permission-in-Linux)
 
 - <b>SQL/ projects
-- [Applying different filters to SQL queries]
+  - [Applying different filters to SQL queries](https://github.com/bassembotros98/SQL-Project-)
 
