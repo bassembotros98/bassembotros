@@ -8,4 +8,6 @@
 - <b>linux/ projects
   - [changing multiple file permissions in linux](https://github.com/bassembotros98/File-permission-in-Linux)
 
+- <b>SQL/ projects
+- [Applying different filters to SQL queries]
 
