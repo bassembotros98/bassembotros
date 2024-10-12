@@ -11,3 +11,5 @@
 - <b>SQL/ projects
   - [Applying different filters to SQL queries](https://github.com/bassembotros98/SQL-Project-)
 
+- <b>Active Directory/ projects
+-   [the setup and monitoring of an Active Directory environment](
